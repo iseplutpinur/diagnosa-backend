@@ -1,0 +1,1 @@
+[28-Jan-2022 07:20:29 Asia/Jakarta] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/almardiy/diagnosa.almardiyah.com/application/libraries/dompdf/include/text_renderer.cls.php on line 155
